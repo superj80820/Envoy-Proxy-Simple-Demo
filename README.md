@@ -1,6 +1,6 @@
 # Envoy-Proxy-Simple-Demo
 
-此`Repository`用`Envoy`對`Golang Server`做了簡單的代理Demo
+此`Repository`用`Envoy`對`Golang Server`做了簡單的代理`API`的Demo
 
 ## 需要安裝
 
