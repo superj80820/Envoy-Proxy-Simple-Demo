@@ -7,7 +7,7 @@
 * `docker`
 * `docker-compose`
 
-## How to run?
+## 怎麼使用?
 
 啟動`docker-compose`
 
