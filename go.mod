@@ -1,4 +1,4 @@
-module GRPC-Web-Simple-Demo
+module Envoy-Proxy-Simple-Demo
 
 go 1.14
 

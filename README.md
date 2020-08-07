@@ -16,7 +16,15 @@ $ docker-compose build
 $ docker-compose up
 ```
 
-連入`localhost:8080`
+連入`http://localhost:8080/ping`，
+
+會獲得以下`response`:
+
+```
+{
+  "message": "pong"
+}
+```
 
 ## 參考
 
